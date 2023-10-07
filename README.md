@@ -1,7 +1,7 @@
 # Stevenarella
 [![Build](https://github.com/iceiix/stevenarella/actions/workflows/build.yaml/badge.svg)](https://github.com/iceiix/stevenarella/actions/workflows/build.yaml)
 
-Multi-protocol Minecraft-compatible client written in Rust.
+Multi-protocol Minecraft-compatible client written in Rust.n
 
 Don't expect it to go anywhere, just doing this for fun.
 
