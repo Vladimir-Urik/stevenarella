@@ -11,7 +11,7 @@ Don't expect it to go anywhere, just doing this for fun.
 ![Steven](https://i.imgur.com/RRspOQF.png)
 
 
-In action: http://gfycat.com/NeedyElaborateGypsymoth
+In action: http://gfycat.com/NeedyElaborateGypsymot
 
 ## Community
 
